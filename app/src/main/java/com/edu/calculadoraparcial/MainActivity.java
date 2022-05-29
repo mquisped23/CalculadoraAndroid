@@ -44,6 +44,9 @@ public class MainActivity extends AppCompatActivity {
         //Comentario de miguel
         //DIEGO
         Toast.makeText(getApplicationContext(), "MAMAI MAMAI QUISPE"+ suma,Toast.LENGTH_LONG).show();
+        //skywolfxNelson
+        Toast.makeText(getApplicationContext(), "Nelson Cueva"+ suma,Toast.LENGTH_LONG).show();
+
 
     }
 
