@@ -38,7 +38,10 @@ public class MainActivity extends AppCompatActivity {
 
         //Mostramos por pantalla mediante un Toast
         Toast.makeText(getApplicationContext(), "La suma de los numeros es: "+ suma,Toast.LENGTH_LONG).show();
+        //Diego
         Toast.makeText(getApplicationContext(), "HOLA"+ suma,Toast.LENGTH_LONG).show();
+        //Miguel
+        //Comentario de miguel
     }
 
     //Creamos un metodo llamado Restar para poder hacer la resta de los dos numeros
