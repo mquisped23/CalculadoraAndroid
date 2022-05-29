@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculadoraParcial</string>
+    <string name="nombre_titulo">Calculadora</string>
+    <string name="primer_numero">Primer Numero</string>
+    <string name="segundo_numero">Segundo Numero</string>
+    <string name="btn_sumar">Sumar</string>
+    <string name="btn_restar">Restar</string>
+
+</resources>
